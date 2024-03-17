@@ -5,7 +5,7 @@
   * requis pour la demo:
     * open graph
     * le build
-    * ajout de contneus dans une collection au formt md/mdx
+    * ajout de contneus dans une collection au format md/mdx
     * la CI
     * le pagespeed
     * ...
